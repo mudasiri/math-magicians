@@ -101,7 +101,7 @@ button {
 }
 
 .c-grid > button.special {
-  background-color: var(--default-color);
+  background-color: orange;
 }
 
 .span-two {
