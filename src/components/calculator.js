@@ -5,7 +5,7 @@ class Calculator extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
-    total: 0,
+      total: 0,
       next: null,
       operation: null,
     };
@@ -30,7 +30,7 @@ class Calculator extends React.Component {
           <div className="ctc c-compute">
             <div className="number">
               <p>
-              <span>{total}</span>
+                <span>{total}</span>
                 <span>{operation}</span>
                 <span>{next}</span>
               </p>
