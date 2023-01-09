@@ -35,7 +35,7 @@
 
 **[Math_Magicians]** is an application built for math lovers. The App has a calculator , a math quotes session and other math related informations.
 
-## 🛠 Built With <a name="built-with">HTML Javascript</a>
+## 🛠 Built With <a name="built-with">React</a>
 
 ### Tech Stack <a name="tech-stack">Web Pack</a>
 
@@ -64,7 +64,7 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[InvolvementAPI]**
+- **[React]**
 - **[Webpack]**
 
 
@@ -140,9 +140,9 @@ You can deploy this project using:
 
 👤 **Mudasir Issah**
 
-- GitHub: [@githubhandle](https://github.com/mudasiri)
-- Twitter: [@twitterhandle](https://twitter.com/mudasirissah)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/mudasirissah)
+- GitHub: [@mudasiri](https://github.com/mudasiri)
+- Twitter: [@mudasirissah](https://twitter.com/mudasirissah)
+- LinkedIn: [mudasirissah](https://linkedin.com/in/mudasirissah)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
