@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Math_Magicians] <a name="about-project"></a>
+# 📖 [Math Magicians] <a name="about-project"></a>
 
-**[Math_Magicians]** is an application built for math lovers. The App has a calculator , a math quotes session and other math related informations.
+**[Math Magicians]** is an application built for math lovers. The App has a calculator , a math quotes session and other math related informations.
 
 ## 🛠 Built With <a name="built-with">React</a>
 
