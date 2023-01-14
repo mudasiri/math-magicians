@@ -140,9 +140,9 @@ You can deploy this project using:
 
 👤 **Mudasir Issah**
 
-- GitHub: [@githubhandle](https://github.com/mudasiri)
-- Twitter: [@twitterhandle](https://twitter.com/mudasirissah)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/mudasirissah)
+- GitHub: [@mudasiri](https://github.com/mudasiri)
+- Twitter: [@mudasirissah](https://twitter.com/mudasirissah)
+- LinkedIn: [mudasirissah](https://linkedin.com/in/mudasirissah)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
