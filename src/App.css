@@ -63,6 +63,7 @@ button {
   font-weight: 300;
   transition: all 0.5s linear;
   overflow: hidden;
+  height: 90px;
 }
 
 .number {
@@ -88,6 +89,7 @@ button {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   height: 56vh;
+  margin-top: 10px;
 }
 
 .c-grid > button {
