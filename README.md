@@ -52,7 +52,6 @@
     <li>Webpack</li>
   </ul>
 </details>
-
 <details>
 <summary>Database</summary>
   <ul>
